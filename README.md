@@ -1,6 +1,6 @@
 # my_pgp_public_key
 My pgp public key
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xsFNBGVA59YBEADeQOPOFgAfAm0zFPAMBVybc1DXS5EL4jBQoNJNJ+td0KLyBJln
@@ -97,3 +97,4 @@ jNZiy7Grz6WBiR7Tln5b/N2DUQiwGaWyehYvqqRQksQ58kNK2F0n3q70EmpS/CBA
 RxU3zm7CqUCQHOzF+cbIY7oP8qEl
 =8oTI
 -----END PGP PUBLIC KEY BLOCK-----
+```
